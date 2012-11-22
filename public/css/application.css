@@ -1,0 +1,11 @@
+body {
+  max-width: 800px;
+  margin: 50px auto;
+}
+
+h2 {
+  text-align: center;
+  color: #666;
+  font-family: Helvetica, sans-serif;
+  margin-top: 50px;
+}
